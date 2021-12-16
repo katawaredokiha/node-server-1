@@ -1,0 +1,9 @@
+{
+  "name": "node-server-1",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.10.3"
+  }
+}
